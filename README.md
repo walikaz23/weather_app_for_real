@@ -5,6 +5,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm init #toinstall all the npm packages
+#create a file called .env then add API_KEY=(your weather api key )
+
+then run one of these 
+ 
 npm run dev
 # or
 yarn dev
